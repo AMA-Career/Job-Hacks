@@ -1,6 +1,13 @@
-# 🎯 Job Hacks
+# 🎯 Job Hacks by AMA Career
 
-Smart tips on job searching, applications, resumes, and interviews — helping you stand out in the job market and land jobs more strategically. All proven strategies from job seekers who've successfully landed offers.
+**Smart tips on job searching, applications, resumes, and interviews — helping you stand out in the job market and land jobs more strategically. All proven strategies from job seekers who've successfully landed offers.**
+
+While this repository showcases a selection of great tips, for a comprehensive and personalized job search experience, we invite you to explore [AMA Career](https://amacareer.ai). Powered by AI, AMA Career acts as your 24/7 job search co-pilot — helping you generate tailored resumes and cover letters, practice interviews, and discover the best-fit roles based on your unique background. From your first application to final offer, we’re here to support every step
+
+
+<p align="center">🤖 <a href="https://amacareer.ai">Your personal AI job twin, working 24/7 to get you hired</a> 🤖</p>
+
+
 
 ## 📋 Tips Catalog
 
